@@ -27,7 +27,7 @@ References:
 - [Ray Tracing in One Weekend (HTML version)](https://raytracing.github.io/books/RayTracingInOneWeekend.html) Free Ebook about ray tracing. After you are done with all the tasks, you might want to check out the other books in the series, "Ray Tracing: The Next Week" and "Ray Tracing: The Rest of Your Life" :)
 - [Ray Tracing in One Weekend (older PDF version)](http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf) The code examples in the "live" HTML version have been updated a bit since 2019 (to use double-precision floats and more modern C++ language features) so you might find the exampels in the older PDF version easier to adapt to the style of the project code.
 - [Disney's Practical Guide to Path Tracing](https://www.youtube.com/watch?v=frLwRLS_ZR0) Short but informative introduction to path tracing from Disney/Pixar.
-- [The Rendering Equation](https://studentportalen.uu.se/uusp-webapp/auth_hitch/spring/webpagefiles/files/download/646956/9be0692b-0b6e-4309-b429-14eff7a4f811.pdf) Kajiya's original research paper on path tracing from 1986.
+- [The Rendering Equation](https://dl.acm.org/doi/pdf/10.1145/15922.15902) Kajiya's original research paper on path tracing from 1986.
 - [Physically Based Rendering](http://www.pbr-book.org/) This book covers more advanced topics, and is also freely available on the book webpage.
 
 
